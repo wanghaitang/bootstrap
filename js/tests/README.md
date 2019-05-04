@@ -67,3 +67,4 @@ QUnit.test('should describe the unit being tested', function (assert) {
     .bootstrapTooltip('show')
 })
 ```
+// my add for test
